@@ -5,8 +5,13 @@
 
 # TEST list
 word2vec
+
 KoBERT
+
 KR-SBERT
 
+
+
 BERT(BERT4DOC)
+
 KoELECTRA
