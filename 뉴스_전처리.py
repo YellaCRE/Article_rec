@@ -30,3 +30,6 @@ def text_preprocessing(text):
     text = text.replace('..',' ')
     
     return text
+
+#제목 전처리
+df["title"] = df["title"].apply(lambda x: text_preprocessing(str(x)))
