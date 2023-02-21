@@ -14,3 +14,8 @@ KR-SBERT
 BERT(BERT4DOC)
 
 KoELECTRA
+
+# Results
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/76480887/220228999-98d20237-f23a-4997-9e25-880237462e64.png">
+
