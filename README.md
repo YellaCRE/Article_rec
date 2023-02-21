@@ -17,5 +17,10 @@ KoELECTRA
 
 # Results
 
+정량평가 결과
+
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/76480887/220228999-98d20237-f23a-4997-9e25-880237462e64.png">
 
+정성평가 결과
+
+<img width="920" alt="image" src="https://user-images.githubusercontent.com/76480887/220229128-dfffe0db-89fd-42d1-bebb-9818050ad90a.png">
