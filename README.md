@@ -24,3 +24,5 @@ KoELECTRA
 정성평가 결과
 
 <img width="920" alt="image" src="https://user-images.githubusercontent.com/76480887/220229128-dfffe0db-89fd-42d1-bebb-9818050ad90a.png">
+
+타 모델에 비해 SBert가 문맥적인 이해가 뛰어났으며 타겟에 유사한 내용의 기사를 추천하였다
