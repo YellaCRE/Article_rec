@@ -19,9 +19,11 @@ KoELECTRA
 
 정량평가 결과
 
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/76480887/220228999-98d20237-f23a-4997-9e25-880237462e64.png">
+
+KR-SBert
 <img width="1006" alt="image" src="https://user-images.githubusercontent.com/76480887/221086285-c0911e90-d741-4491-81e5-82901d337ac2.png">
 
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/76480887/220228999-98d20237-f23a-4997-9e25-880237462e64.png">
 
 정성평가 결과
 
