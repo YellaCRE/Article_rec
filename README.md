@@ -28,6 +28,6 @@ KR-SBert
 # 결과 정리
 
 타 모델에 비해 SBert가 문맥적인 이해가 뛰어났으며 타겟에 유사한 내용의 기사를 추천.  
-실험초반, KoBert와 Bert4Doc의 성능이 SBert에 비해 나오지 않은 것을 각각 vocab의 수 부족과 한국어 vocab이 아닌 것으로 예상하였으나
+실험초반, KoBert와 Bert4Doc의 성능이 SBert에 비해 나오지 않은 것을 각각 vocab의 수 부족과 한국어 vocab이 아닌 것으로 예상하였으나  
 KoBert보다 vocab의 수가 압도적으로 많고 한국어 모델인 KoELECTRA를 실험했을 때도 결과가 좋지 못함.  
 따라서 두 문장간의 유사도를 비교하는 실험에는 SBert의 알고리즘이 뛰어남을 알 수 있음.
