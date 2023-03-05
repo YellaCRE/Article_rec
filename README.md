@@ -4,6 +4,8 @@
 
 NLP 모델을 통해 기사를 벡터화 후 코사인유사도를 통해 기사 간 유사도를 비교
 
+![자연어처리](https://user-images.githubusercontent.com/76480887/222945448-09886278-045a-4cc4-bfeb-e7a71c7f3745.jpg)
+
 # Test model list
 * word2vec
 * KoBERT
