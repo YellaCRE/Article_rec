@@ -13,7 +13,7 @@ NLP 모델을 통해 기사를 벡터화 후 코사인유사도를 통해 기사
 * BERT(BERT4DOC)
 * KoELECTRA
 
-# Result
+# Results
 
 정량평가 결과
 
