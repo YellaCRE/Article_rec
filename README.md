@@ -27,7 +27,7 @@ KR-SBert
 
 <img width="920" alt="image" src="https://user-images.githubusercontent.com/76480887/220229128-dfffe0db-89fd-42d1-bebb-9818050ad90a.png">
 
-# Conclusion
+# Conclusions
 
 타 모델에 비해 SBert가 문맥적인 이해가 뛰어났으며 타겟과 유사한 카테고리의 기사를 추천.  
 실험초반, KoBert와 Bert4Doc의 성능이 SBert에 비해 나오지 않은 것을 각각 vocab의 수 부족과 한국어 vocab이 아닌 것으로 예상하였으나  
